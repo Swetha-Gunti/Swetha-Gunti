@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Swetha-Gunti
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA & Python
 
 
 <!---
