@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Swetha-Gunti
-- 👀 I’m interested in coding
-
+  
 
 <!---
 Swetha-Gunti/Swetha-Gunti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
